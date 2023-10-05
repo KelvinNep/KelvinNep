@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c5/4b/8a/c54b8a98c242d3f79e273ef5e5cda7ca.gif" alt="Banner GIF" />
+  <img src="https://i.pinimg.com/originals/c5/4b/8a/c54b8a98c242d3f79e273ef5e5cda7ca.gif" alt="Banner GIF" style="width: 400%; max-height: 500px; object-fit: cover;" />
 </p>
 <h1 align="center">Hi 👋, I'm KELVIN</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
