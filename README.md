@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KelvinNep&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="144" alt="languages graph">
 </div>
 
-<img src="https://raw.githubusercontent.com/KelvinNep/KelvinNep/output/snake.svg" alt="Snake animation">
+<img src="https://raw.githubusercontent.com/KelvinNep/KelvinNep/output/snake.svg" alt="Snake animation" />
 
 <h2 align="left">🛠️ My Favorite Tools</h2>
 
