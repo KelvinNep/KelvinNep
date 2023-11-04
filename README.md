@@ -1,62 +1,67 @@
-<h1 align="center">
-Hi, I'm <a href="https://github.com/hoaan1995" rel="nofollow">Lucito06</a>!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h2 align="center">Hi , I'm Lucito0635!👋</h2>
 
-<br/>
+###
 
+<div align="left">
+  <img height="200" src="https://i.pinimg.com/originals/3c/01/50/3c0150ba740005b5f2265ad6db4832c7.gif"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%2C+C;Freelancer;Always+learning+new+things&center=true&width=480&height=45"></a>
-</p>
+###
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
-</p>
+<p align="left">```<br>@KelvinNep<br>-------------------------<br>💻 I'm a Student<br>🌟 Main languages: Python, C<br>🎵 Love music<br>```</p>
 
-Disclaimer:-
+###
 
-Repos. or Starred projects in this profile is for EDUCATIONAL PURPOSES ONLY, I'm not responsible for any bad uses from anyone ❌✋
+<div align="left">
+  <a href="https://www.instagram.com/svntnn17_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/Nivxek#3865" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-CODING NEVER DIE!
+###
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinNep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="144" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KelvinNep&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="144" alt="languages graph"  />
+</div>
 
-```
-@zxcr9999
--------------------------
-💻 I'm a Student
-🌟 Main languages: Python, Html, Css
-🎵 Love music
-```
-<hr>
+###
 
+<img src="https://raw.githubusercontent.com/KelvinNep/KelvinNep/output/snake.svg" alt="Snake animation" />
 
-## 🛠️ My Favorite Tools
+###
 
-### 👨‍💻 Programming Languages
+<h2 align="center">🛠️ My Favorite Tools</h2>
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="SQL" src="https://img.shields.io/badge/C%20-%23025E8C.svg?logo=c&logoColor=white"></a>
+###
 
-### 🗄️ Databases and Cloud Hosting
+<h3 align="left">👨‍💻 Programming Languages</h3>
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-</p>
+###
 
-### 💻 Software and Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
-<p>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+###
+
+<h3 align="left">💻 Software and Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
