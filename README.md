@@ -1,49 +1,41 @@
-<h2 align="center">Hi, I'm Lucito0635!👋</h2>
+<h1 align="center">Hi, I'm Lucito0635! 👋</h1>
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/3c/01/50/3c0150ba740005b5f2265ad6db4832c7.gif">
-  <p align="left">
-    <code>@KelvinNep</code><br>
-    -------------------------<br>
-    💻 I'm a Student<br>
-    🌟 Main languages: Python, Html, Css<br>
-    🎵 Love music<br>
-  </p>
+ <div align="center">
+  💻 I'm a Student | 🌟 Main languages: Python, HTML, CSS | 🎵 Love music
 </div>
 
-<div align="left">
-  <a href="https://www.instagram.com/svntnn17_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo">
+<div align="center">
+  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&labelColor=white" height="35" alt="Instagram logo">
   </a>
-  <a href="https://discordapp.com/users/Nivxek#3865" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo">
+  <a href="https://discordapp.com/users/your-discord-username" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&labelColor=white" height="35" alt="Discord logo">
   </a>
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KelvinNep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="144" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KelvinNep&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="144" alt="languages graph">
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinNep&show_icons=true&count_private=true&theme=nord" height="150" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinNep&layout=compact&langs_count=5&theme=nord" height="150" alt="Top Languages">
 </div>
 
+<h2 align="center">🛠️ My Favorite Tools</h2>
 
-<h2 align="left">🛠️ My Favorite Tools</h2>
+<h3 align="center">👨‍💻 Programming Languages</h3>
 
-<h3 align="left">👨‍💻 Programming Languages</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo">
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo">
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo">
 </div>
 
-<h3 align="left">💻 Software and Tools</h3>
+<h3 align="center">💻 Software and Tools</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo">
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo">
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" alt="Chrome logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode logo">
 </div>
